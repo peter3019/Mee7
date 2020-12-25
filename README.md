@@ -3,10 +3,10 @@
 This is a self hosting bot, I will not provide any hosting software to you, except on your computer.
 
 Steps of hosting this discord .js bot.
-1. You have to install {
-  Node.js LTS version / Current version. : ' https://nodejs.org/en/ '
-  Any Text editor.
-  }
+1. You have to install 
+  + Node.js LTS version / Current version. : ' https://nodejs.org/en/ '
+  + Any Text editor.
+  
 2. Create a bot account in the Discord Developer Portal
 
 3. Invite the created bot to your server with this link. Replace BOT_ID in your browser with your bots Client_ID
