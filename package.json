@@ -1,0 +1,31 @@
+{
+  "name": "mee7",
+  "version": "0.0.3",
+  "description": "A clean version of the project Mee7",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test Mee7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter3019/Mee7.git"
+  },
+  "keywords": [
+    "Mee7",
+    "Discord-Bot"
+  ],
+  "author": "Zhe-Wei, Lee",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/peter3019/Mee7/issues"
+  },
+  "homepage": "https://github.com/peter3019/Mee7#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "dotenv-flow": "^3.2.0",
+    "fs": "^0.0.1-security",
+    "moment-timezone": "^0.5.32",
+    "wokcommands": "^1.1.5"
+  }
+}
